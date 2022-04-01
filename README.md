@@ -5,7 +5,7 @@
 
 
 
-# Getting started
+# Usage
 
 *Using the robloxalts.info API is very simple!*
 
