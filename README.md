@@ -20,3 +20,15 @@ Include your `apikey` (*your API key* and `amount` (*the amount of alts you want
 *If you still don't understand take a look at the ReqBin.com example. If you do decide to use ReqBin.com, make sure to use the EXT mode because of our firewall!*
 
 ![ReqBin](https://media.discordapp.net/attachments/947930791432818802/959530072849666068/unknown.png)
+
+# Getting a key
+
+Only Premium and On-Demand can get a key for now.
+
+You can get 25 alts per request.
+
+Type .getapikey in our Discord server. If you have Premium or On-Demand, you will be DM-ed a key!
+
+Premium - 250/day
+
+On-Demand - 1000/day
