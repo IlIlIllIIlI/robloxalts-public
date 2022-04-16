@@ -11,7 +11,7 @@
 
 **Generating alts**
 
-To generate an alt, you will want to make a **POST** request to `http://accounts.robloxalts.info/api/public/demand/generate`.
+To generate an alt, you will want to make a **POST** request to `https://accounts.robloxalts.info/api/public/demand/generate`.
 
 Include your `apikey` (*your API key* and `amount` (*the amount of alts you want to receive*) in the request data (application/json)
 
